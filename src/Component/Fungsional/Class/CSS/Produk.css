@@ -1,0 +1,26 @@
+.box-stock {
+    width: 300px;
+    display: inline-block;
+    height: auto;
+    border: 5px solid rgb(10, 10, 10);
+    padding: 10px;
+    margin: 15px;
+    margin-top: 15px;
+    background-color: rgb(52, 124, 196) ;
+    color: rgb(118, 236, 154);
+}   
+
+.box-stock img {
+    width: 200px;
+    height: 200x;
+    border: 2px solid white;
+}
+
+.btn-click {
+    background-color: rgb(93, 236, 236);
+    width: 200px;
+    position: static;
+    margin-left: 30px;
+    
+}
+
